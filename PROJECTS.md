@@ -19,6 +19,6 @@ and finally here is a link: [Crwn-Clothing](https://crwn-react-clothing-denis.he
 code here https://github.com/denistort/E-commers-React-Clothing-store
 
 
-##Omnifood simple desponsive landing page
+## Omnifood simple desponsive landing page
 
 deployed: https://denistort.github.io/omnifood/
