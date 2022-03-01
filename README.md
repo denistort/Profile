@@ -27,7 +27,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=denistort.denistort)
 
 
-### I'm 29 years old Self-taught Full-Stack developer from Kazakhstan.
+### I'm Full-Stack developer from Kazakhstan.
 
 <code>👷 Speciality: Junior Frontend | Backend Developer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
