@@ -29,7 +29,7 @@
 
 ### I'm Full-Stack developer from Kazakhstan.
 
-<code>👷 Speciality: Junior Frontend | Backend Developer</code><br>
+<code>👷 Speciality: Frontend | Backend Developer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
