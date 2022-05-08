@@ -29,7 +29,7 @@
 
 ### I'm Frontend developer from Kazakhstan.
 
-<code>👷 Speciality: Frontend | Backend Developer</code><br>
+<code>👷 Speciality: Frontend Developer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
