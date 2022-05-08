@@ -27,7 +27,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=denistort.denistort)
 
 
-### I'm Full-Stack developer from Kazakhstan.
+### I'm Frontend developer from Kazakhstan.
 
 <code>👷 Speciality: Frontend | Backend Developer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
