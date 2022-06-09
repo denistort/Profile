@@ -40,7 +40,7 @@
 <code>💬 telegram: [@denistort](https://telegram.me/denistort)</code>
 <code>📫 [denismakste@gmail.com](mailto:denismakste@gmail.com)</code>
 
-<img align="center" height="250px" width="100%" alt="GIF" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" />
+<img align="center" height="500px" width="100%" alt="GIF" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" />
 
 <br />
 <br />
