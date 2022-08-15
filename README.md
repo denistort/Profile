@@ -35,7 +35,7 @@
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, TypeSciprt, Elixir</code>
-<code>📦 Tech stack: node.js, react, nextjs</code>
+<code>📦 Tech stack: node.js, react, solidjs, vue</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@denistort](https://telegram.me/denistort)</code>
 <code>📫 [denismakste@gmail.com](mailto:denismakste@gmail.com)</code>
