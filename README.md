@@ -1,5 +1,7 @@
 
-# I'm [Denis!](https://https://github.com/denistort/denistort) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+
+# I'm [Denis!](https://https://github.com/denistort/denistort) 👋.
 
 <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 <a href="https://twitter.com/wewe">
