@@ -29,9 +29,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=denistort.denistort)
 
 
-### I'm Frontend developer from Kazakhstan.
+### I'm enthusiast & web developer from Kazakhstan.
 
-<code>👷 Speciality: Frontend Developer</code><br>
+<code>👷 Speciality: Frontend & Backend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
