@@ -28,3 +28,19 @@ deployed: https://denistort.github.io/omnifood/
 ![wewe](https://user-images.githubusercontent.com/71392741/232330980-3370e4a4-116c-419a-9c45-674474764fdc.png)
 
 The application is similar to Google Spreadsheets, with a huge number of dynamic elements. The application architecture is completely written from scratch, page navigation is also implemented from scratch, the global storage is written by analogy with redax.
+
+
+## Anonymous chat with search for interlocutors
+[frontend-repo](https://github.com/denistort/Nekto-me-Anon-chat-Clone)
+[backend-repo](https://github.com/denistort/Nekto-me-anon-chat-Websocket-Server)
+
+## Clies
+
+1. Create Reacte Functional component [link](https://github.com/denistort/createfc-cli) 
+2. srt-translater-cli [repo](https://github.com/denistort/srt-translater-cli)
+
+## Open Source Libraries
+
+1. Enris Template
+What is Enris template? Enris it is a simple nodejs templates engine which allows you insert the data into the html files
+[repo](https://github.com/denistort/enris-templates)
