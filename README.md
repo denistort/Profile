@@ -38,35 +38,3 @@
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@denistort](https://telegram.me/denistort)</code>
 <code>📫 [denismakste@gmail.com](mailto:denismakste@gmail.com)</code>
-
-
-
-*************
-
-### - Languages and Tools...
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-</p>
-
-
-***********************************
-
-#### Thank You-🙏🏼
-
-
-
-⭐️ From [denistort](https://github.com/denistort)
-
-
-## GitHub Analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denistort&layout=compact)](https://github.com/denistort/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denistort&show_icons=true&theme=radical)
-
-<img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
-
