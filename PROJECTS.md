@@ -23,7 +23,7 @@ code here https://github.com/denistort/E-commers-React-Clothing-store
 
 deployed: https://denistort.github.io/omnifood/
 
-## Google-sheet like app
+## Google-Spreadsheets like app
 
 ![wewe](https://user-images.githubusercontent.com/71392741/232330980-3370e4a4-116c-419a-9c45-674474764fdc.png)
 
