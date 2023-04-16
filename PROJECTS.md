@@ -22,3 +22,9 @@ code here https://github.com/denistort/E-commers-React-Clothing-store
 ## Omnifood simple desponsive landing page
 
 deployed: https://denistort.github.io/omnifood/
+
+## Google-sheet like app
+
+![wewe](https://user-images.githubusercontent.com/71392741/232330980-3370e4a4-116c-419a-9c45-674474764fdc.png)
+
+The application is similar to Google Spreadsheets, with a huge number of dynamic elements. The application architecture is completely written from scratch, page navigation is also implemented from scratch, the global storage is written by analogy with redax.
