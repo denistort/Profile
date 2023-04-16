@@ -42,16 +42,7 @@
 <code>💬 telegram: [@denistort](https://telegram.me/denistort)</code>
 <code>📫 [denismakste@gmail.com](mailto:denismakste@gmail.com)</code>
 
-<img align="center" height="500px" width="100%" alt="GIF" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" />
 
-<br />
-<br />
-<br />
-
-
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=denistort&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<br />
 
 *************
 
